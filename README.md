@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saramitra
+- 👋 Hi, I’m Saramitra
 - 👀 I’m interested in coding and fullstack web development
 - 🌱 I’m currently learning google cloud features and javascript
 - ✨ they/she/he
