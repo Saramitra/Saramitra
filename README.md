@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saramitra
 - 👀 I’m interested in coding and fullstack web development
-- 🌱 I’m currently learning google cloud features and javascript
-- ✨ they/she/he
+- 🌱 I’m currently doing leetcode
+- ✨ she/her
 
 <!---
 Saramitra/Saramitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
